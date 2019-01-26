@@ -1,0 +1,1109 @@
+<000>clr_chams_ct_invis 0 100 255 255
+<000>clr_chams_ct_vis 50 255 50 255
+<000>clr_chams_ghost_fake 255 255 255 255
+<000>clr_chams_ghost_lby 50 50 50 255
+<000>clr_chams_hands_primary 255 0 0 255
+<000>clr_chams_hands_secondary 0 0 255 255
+<000>clr_chams_historyticks 255 255 255 255
+<000>clr_chams_other_invis 255 255 255 255
+<000>clr_chams_other_vis 178 178 178 255
+<000>clr_chams_t_invis 255 50 0 255
+<000>clr_chams_t_vis 255 200 0 255
+<000>clr_chams_weapon_primary 0 0 255 255
+<000>clr_chams_weapon_secondary 255 0 0 255
+<000>clr_esp_bar_ammo1 4 104 240 255
+<000>clr_esp_bar_ammo2 4 104 240 255
+<000>clr_esp_bar_armor1 200 200 200 255
+<000>clr_esp_bar_armor2 100 100 100 255
+<000>clr_esp_bar_health1 0 255 0 255
+<000>clr_esp_bar_health2 255 0 0 255
+<000>clr_esp_bar_lbytimer1 200 200 200 255
+<000>clr_esp_bar_lbytimer2 200 200 200 255
+<000>clr_esp_box_ct_invis 0 100 255 255
+<000>clr_esp_box_ct_vis 50 255 50 255
+<000>clr_esp_box_other_invis 255 255 255 255
+<000>clr_esp_box_other_vis 178 178 178 255
+<000>clr_esp_box_t_invis 255 50 0 255
+<000>clr_esp_box_t_vis 255 200 0 255
+<000>clr_esp_crosshair 255 0 0 255
+<000>clr_esp_crosshair_recoil 234 38 28 255
+<000>clr_esp_outofview 234 38 28 255
+<000>clr_gui_button_clicked 180 30 20 255
+<000>clr_gui_button_hover 230 35 43 255
+<000>clr_gui_button_idle 160 20 20 255
+<000>clr_gui_button_outline 159 30 32 255
+<000>clr_gui_checkbox_off 254 254 254 255
+<000>clr_gui_checkbox_off_hover 244 244 244 255
+<000>clr_gui_checkbox_on 180 20 20 255
+<000>clr_gui_checkbox_on_hover 230 35 43 255
+<000>clr_gui_combobox_drop1 235 235 235 255
+<000>clr_gui_combobox_drop2 210 210 210 255
+<000>clr_gui_combobox_drop3 200 200 200 100
+<000>clr_gui_controls1 255 255 255 255
+<000>clr_gui_controls2 159 30 32 255
+<000>clr_gui_controls3 220 220 220 255
+<000>clr_gui_groupbox_background 60 60 60 193
+<000>clr_gui_groupbox_outline 205 0 0 255
+<000>clr_gui_groupbox_scroll 165 165 165 255
+<000>clr_gui_hover 0 0 0 10
+<000>clr_gui_listbox_active 68 190 16 127
+<000>clr_gui_listbox_background 57 57 57 175
+<000>clr_gui_listbox_outline 220 0 0 255
+<000>clr_gui_listbox_scroll1 180 0 0 255
+<000>clr_gui_listbox_scroll2 127 127 127 255
+<000>clr_gui_listbox_select 184 184 184 255
+<000>clr_gui_slider_bar1 255 255 255 255
+<000>clr_gui_slider_bar2 234 50 10 255
+<000>clr_gui_slider_bar3 130 15 19 255
+<000>clr_gui_slider_button 130 15 19 255
+<000>clr_gui_tablist1 186 35 43 255
+<000>clr_gui_tablist2 225 225 225 255
+<000>clr_gui_tablist3 255 255 255 255
+<000>clr_gui_tablist4 210 30 10 255
+<000>clr_gui_text1 255 255 255 255
+<000>clr_gui_text2 255 0 0 255
+<000>clr_gui_window_background 67 67 67 206
+<000>clr_gui_window_footer 24 24 24 181
+<000>clr_gui_window_footer_text 154 0 0 255
+<000>clr_gui_window_header 84 84 84 183
+<000>clr_gui_window_header_tab1 0 0 0 201
+<000>clr_gui_window_header_tab2 186 0 0 255
+<000>clr_gui_window_logo1 255 255 255 255
+<000>clr_gui_window_logo2 186 35 43 255
+<000>clr_misc_hitmarker 255 255 255 255
+<000>dpi_scale 1
+<000>esp_active 1
+<000>esp_crosshair 0
+<000>esp_crosshair_recoil 0
+<000>esp_dormant_enemy 0
+<000>esp_dormant_team 0
+<000>esp_enemy_aimpoints 0
+<000>esp_enemy_ammo 0
+<000>esp_enemy_armor 0
+<000>esp_enemy_barrel 0
+<000>esp_enemy_box 0
+<000>esp_enemy_box_outline 0
+<000>esp_enemy_box_precise 0
+<000>esp_enemy_chams 1
+<000>esp_enemy_comprank 0
+<000>esp_enemy_damage 0
+<000>esp_enemy_defusing 1
+<000>esp_enemy_flashed 1
+<000>esp_enemy_glow 0
+<000>esp_enemy_hasc4 1
+<000>esp_enemy_hasdefuser 0
+<000>esp_enemy_headspot 0
+<000>esp_enemy_health 0
+<000>esp_enemy_hitbox 0
+<000>esp_enemy_lbytimer 0
+<000>esp_enemy_money 0
+<000>esp_enemy_name 0
+<000>esp_enemy_reloading 0
+<000>esp_enemy_scoped 0
+<000>esp_enemy_skeleton 0
+<000>esp_enemy_weapon 0
+<000>esp_enemy_xqz 0
+<000>esp_filter_chickens 0
+<000>esp_filter_enemy 1
+<000>esp_filter_grenades 1
+<000>esp_filter_hostages 1
+<000>esp_filter_plantedc4 1
+<000>esp_filter_self 1
+<000>esp_filter_team 1
+<000>esp_filter_weapon 1
+<000>esp_nadedamage 0
+<000>esp_nadetracer 1
+<000>esp_other_box 1
+<000>esp_other_box_outline 1
+<000>esp_other_box_precise 0
+<000>esp_other_c4timer 1
+<000>esp_other_chams 0
+<000>esp_other_glow 0
+<000>esp_other_name 1
+<000>esp_other_xqz 0
+<000>esp_outofview 0
+<000>esp_radar 0
+<001>esp_radardist 100
+<000>esp_radarsize 96
+<000>esp_self_aimpoints 0
+<000>esp_self_ammo 0
+<000>esp_self_armor 0
+<000>esp_self_barrel 0
+<000>esp_self_box 1
+<000>esp_self_box_outline 1
+<000>esp_self_box_precise 0
+<000>esp_self_chams 1
+<000>esp_self_comprank 0
+<000>esp_self_damage 0
+<000>esp_self_defusing 1
+<000>esp_self_flashed 0
+<000>esp_self_glow 0
+<000>esp_self_hasc4 1
+<000>esp_self_hasdefuser 0
+<000>esp_self_headspot 0
+<000>esp_self_health 1
+<000>esp_self_hitbox 0
+<000>esp_self_lbytimer 0
+<000>esp_self_money 0
+<000>esp_self_name 1
+<000>esp_self_reloading 0
+<000>esp_self_scoped 0
+<000>esp_self_skeleton 0
+<000>esp_self_weapon 1
+<000>esp_self_xqz 1
+<000>esp_sounds_enemy 0
+<000>esp_sounds_team 0
+<000>esp_team_aimpoints 0
+<000>esp_team_ammo 0
+<000>esp_team_armor 0
+<000>esp_team_barrel 0
+<000>esp_team_box 1
+<000>esp_team_box_outline 1
+<000>esp_team_box_precise 0
+<000>esp_team_chams 1
+<000>esp_team_comprank 0
+<000>esp_team_damage 0
+<000>esp_team_defusing 1
+<000>esp_team_flashed 0
+<000>esp_team_glow 0
+<000>esp_team_hasc4 1
+<000>esp_team_hasdefuser 0
+<000>esp_team_headspot 0
+<000>esp_team_health 1
+<000>esp_team_hitbox 0
+<000>esp_team_lbytimer 0
+<000>esp_team_money 0
+<000>esp_team_name 1
+<000>esp_team_reloading 0
+<000>esp_team_scoped 0
+<000>esp_team_skeleton 0
+<000>esp_team_weapon 1
+<000>esp_team_xqz 1
+<000>esp_teambasedcolors 0
+<000>esp_teambasedtextcolor 0
+<000>esp_visibility_enemy 0
+<000>esp_visibility_other 0
+<000>esp_visibility_team 0
+<000>esp_visibility_weapon 0
+<000>esp_wallbangdmg 0
+<000>esp_weapon_ammo 1
+<000>esp_weapon_box 1
+<000>esp_weapon_box_outline 1
+<000>esp_weapon_box_precise 0
+<000>esp_weapon_chams 0
+<000>esp_weapon_glow 0
+<000>esp_weapon_name 1
+<000>esp_weapon_xqz 0
+<000>esp_weaponstyle 0
+<000>lbot_active 1
+<000>lbot_antiaim 0
+<000>lbot_autofire 0
+<001>lbot_autopistol 0.2
+<000>lbot_enable 1
+<000>lbot_fireonpress 1
+<001>lbot_key 1
+<000>lbot_pistol_autowall 0
+<000>lbot_pistol_curve 0
+<000>lbot_pistol_filter_arms 0
+<000>lbot_pistol_filter_chest 1
+<000>lbot_pistol_filter_head 1
+<000>lbot_pistol_filter_legs 0
+<000>lbot_pistol_filter_stomach 1
+<000>lbot_pistol_fov 2.0625
+<000>lbot_pistol_fsd 0.00625
+<000>lbot_pistol_hitbox 0
+<000>lbot_pistol_hitboxselect 1
+<000>lbot_pistol_randomize 0
+<000>lbot_pistol_rcs 1
+<000>lbot_pistol_rcs_horiz 100
+<000>lbot_pistol_rcs_standalone 0
+<000>lbot_pistol_smooth 2.0875
+<000>lbot_pistol_smoothtype 0
+<000>lbot_pistol_tsd 0.04375
+<000>lbot_positionadjustment 1
+<000>lbot_rifle_autowall 0
+<000>lbot_rifle_curve 0.525
+<000>lbot_rifle_filter_arms 0
+<000>lbot_rifle_filter_chest 1
+<000>lbot_rifle_filter_head 1
+<000>lbot_rifle_filter_legs 0
+<000>lbot_rifle_filter_stomach 1
+<000>lbot_rifle_fov 1.125
+<000>lbot_rifle_fsd 0
+<000>lbot_rifle_hitbox 1
+<000>lbot_rifle_hitboxselect 1
+<000>lbot_rifle_randomize 2
+<000>lbot_rifle_rcs 1
+<000>lbot_rifle_rcs_horiz 80
+<000>lbot_rifle_rcs_standalone 1
+<000>lbot_rifle_smooth 14.9562
+<000>lbot_rifle_smoothtype 0
+<000>lbot_rifle_tsd 0
+<000>lbot_shotgun_autowall 0
+<000>lbot_shotgun_curve 0
+<000>lbot_shotgun_filter_arms 0
+<000>lbot_shotgun_filter_chest 1
+<000>lbot_shotgun_filter_head 1
+<000>lbot_shotgun_filter_legs 0
+<000>lbot_shotgun_filter_stomach 1
+<000>lbot_shotgun_fov 3.1875
+<000>lbot_shotgun_fsd 0
+<000>lbot_shotgun_hitbox 1
+<000>lbot_shotgun_hitboxselect 2
+<000>lbot_shotgun_randomize 4
+<000>lbot_shotgun_rcs 0
+<000>lbot_shotgun_rcs_horiz 0
+<000>lbot_shotgun_rcs_standalone 0
+<000>lbot_shotgun_smooth 1
+<000>lbot_shotgun_smoothtype 0
+<000>lbot_shotgun_tsd 0.4
+<000>lbot_smg_autowall 0
+<000>lbot_smg_curve 0.5
+<000>lbot_smg_filter_arms 0
+<000>lbot_smg_filter_chest 1
+<000>lbot_smg_filter_head 1
+<000>lbot_smg_filter_legs 0
+<000>lbot_smg_filter_stomach 1
+<000>lbot_smg_fov 8
+<000>lbot_smg_fsd 0
+<000>lbot_smg_hitbox 1
+<000>lbot_smg_hitboxselect 1
+<000>lbot_smg_randomize 4
+<000>lbot_smg_rcs 1
+<000>lbot_smg_rcs_horiz 50
+<000>lbot_smg_rcs_standalone 0
+<000>lbot_smg_smooth 9.88125
+<000>lbot_smg_smoothtype 0
+<000>lbot_smg_tsd 0.4
+<000>lbot_sniper_autowall 0
+<000>lbot_sniper_curve 0.5
+<000>lbot_sniper_filter_arms 0
+<000>lbot_sniper_filter_chest 1
+<000>lbot_sniper_filter_head 1
+<000>lbot_sniper_filter_legs 0
+<000>lbot_sniper_filter_stomach 1
+<000>lbot_sniper_fov 8
+<000>lbot_sniper_fsd 0
+<000>lbot_sniper_hitbox 1
+<000>lbot_sniper_hitboxselect 1
+<000>lbot_sniper_randomize 1
+<000>lbot_sniper_rcs 1
+<000>lbot_sniper_rcs_horiz 100
+<000>lbot_sniper_rcs_standalone 0
+<000>lbot_sniper_smooth 1
+<000>lbot_sniper_smoothtype 0
+<000>lbot_sniper_tsd 0.4
+<000>lbot_team 0
+<000>lbot_throughsmoke 0
+<001>lbot_togglekey 0
+<000>lbot_trg_autofire 0
+<000>lbot_trg_burst 0
+<000>lbot_trg_delay 0.05
+<000>lbot_trg_enable 0
+<000>lbot_trg_hitchance 70
+<001>lbot_trg_key 18
+<000>lbot_trg_mode 3
+<000>lbot_trg_throughsmoke 0
+<000>msc_active 1
+<000>msc_antisp 1
+<000>msc_autoaccept 0
+<000>msc_autojump 1
+<001>msc_autojumpbug 0
+<000>msc_autostrafer_airstrafe 1
+<000>msc_autostrafer_circle 0
+<000>msc_autostrafer_enable 0
+<000>msc_autostrafer_groundstrafe 0
+<001>msc_autostrafer_mode 0
+<000>msc_autostrafer_retrack 2
+<000>msc_autostrafer_snake 0
+<000>msc_autothrow_enable 0
+<000>msc_autothrow_hegrenade 2
+<000>msc_autothrow_incmolotov 4
+<000>msc_bypasscl 0
+<000>msc_chatspam 0
+<000>msc_clantag 0
+<000>msc_duckjump 0
+<001>msc_edgejump 0
+<000>msc_fakelag_attack 0
+<000>msc_fakelag_enable 0
+<001>msc_fakelag_key 0
+<000>msc_fakelag_mode 4
+<000>msc_fakelag_peekdist 20
+<000>msc_fakelag_standing 0
+<000>msc_fakelag_style 0
+<000>msc_fakelag_unducking 0
+<001>msc_fakelag_value 15
+<000>msc_fakelatency_amount 0.2
+<000>msc_fakelatency_enable 0
+<000>msc_fakelatency_key 0
+<000>msc_hitmarker_enable 0
+<000>msc_hitmarker_volume 1
+<000>msc_invisiblename 0
+<000>msc_knifebot 0
+<000>msc_logevents 1
+<000>msc_logevents_console 0
+<000>msc_logevents_damage 0
+<000>msc_logevents_purchases 1
+<001>msc_menutoggle 45
+<000>msc_minijump 0
+<000>msc_mirrorview 0
+<000>msc_mirrorview_width 100
+<000>msc_namespam 0
+<000>msc_namestealer_enable 0
+<001>msc_namestealer_interval 0
+<001>msc_panickey 0
+<000>msc_playerlist 0
+<000>msc_restrict 2
+<000>msc_revealranks 1
+<000>msc_showspec 0
+<000>msc_skinchanger 0
+<000>msc_slidewalk 0
+<000>msc_speedhack_enable 0
+<001>msc_speedhack_key 86
+<000>msc_speedhack_value 15
+<000>msc_spycamera_key 0
+<000>msc_spycamera_width 400
+<000>pl_setall 0
+<000>rbot_active 0
+<000>rbot_aimkey 0
+<000>rbot_aimlock 0
+<000>rbot_antiaim_at_targets 1
+<000>rbot_antiaim_autodir 0
+<000>rbot_antiaim_autodir_lby 1
+<003>rbot_antiaim_edge_fake 0
+<002>rbot_antiaim_edge_fake_add 0
+<000>rbot_antiaim_edge_lby 0
+<000>rbot_antiaim_edge_lby_delta 180
+<000>rbot_antiaim_edge_pitch_custom 0
+<000>rbot_antiaim_edge_pitch_real 1
+<003>rbot_antiaim_edge_real 1
+<002>rbot_antiaim_edge_real_add 0
+<000>rbot_antiaim_enable 0
+<000>rbot_antiaim_fakeland 0
+<000>rbot_antiaim_fakewalk 0
+<000>rbot_antiaim_fakewalkspeed 7
+<000>rbot_antiaim_jitter_range 180
+<000>rbot_antiaim_ladder 0
+<000>rbot_antiaim_lby_flickup 0
+<003>rbot_antiaim_move_fake 0
+<002>rbot_antiaim_move_fake_add 0
+<000>rbot_antiaim_move_lby 0
+<000>rbot_antiaim_move_lby_delta 180
+<000>rbot_antiaim_move_pitch_custom 0
+<000>rbot_antiaim_move_pitch_real 1
+<003>rbot_antiaim_move_real 1
+<002>rbot_antiaim_move_real_add 0
+<000>rbot_antiaim_on_dormant 1
+<000>rbot_antiaim_on_freezeperiod 0
+<000>rbot_antiaim_on_grenades 0
+<000>rbot_antiaim_on_knife 1
+<000>rbot_antiaim_randomize_on_hs 0
+<000>rbot_antiaim_spinbot_speed 4
+<003>rbot_antiaim_stand_fake 0
+<002>rbot_antiaim_stand_fake_add 0
+<000>rbot_antiaim_stand_lby 0
+<000>rbot_antiaim_stand_lby_delta 180
+<000>rbot_antiaim_stand_pitch_custom 0
+<000>rbot_antiaim_stand_pitch_real 1
+<003>rbot_antiaim_stand_real 1
+<002>rbot_antiaim_stand_real_add 0
+<000>rbot_antiaim_switch_range 46
+<000>rbot_antiaim_switch_speed 1
+<000>rbot_antirecoil 1
+<000>rbot_antispread 1
+<001>rbot_autosniper_autoscope 2
+<000>rbot_autosniper_autostop 2
+<000>rbot_autosniper_autostop_duck 0
+<000>rbot_autosniper_autostop_key 0
+<000>rbot_autosniper_autowall 0
+<000>rbot_autosniper_bodyaftershots 0
+<000>rbot_autosniper_bodyifhplower 0
+<000>rbot_autosniper_bodyiflethal 0
+<000>rbot_autosniper_headifwalking 0
+<000>rbot_autosniper_hitbox 0
+<000>rbot_autosniper_hitbox_adaptive 0
+<000>rbot_autosniper_hitbox_arms 0
+<000>rbot_autosniper_hitbox_arms_ps 0
+<000>rbot_autosniper_hitbox_auto_ps 0
+<000>rbot_autosniper_hitbox_auto_ps_max 0.7
+<000>rbot_autosniper_hitbox_bodyaim 0
+<000>rbot_autosniper_hitbox_chest 0
+<000>rbot_autosniper_hitbox_chest_ps 0
+<000>rbot_autosniper_hitbox_head 1
+<000>rbot_autosniper_hitbox_head_ps 0.9
+<000>rbot_autosniper_hitbox_legs 0
+<000>rbot_autosniper_hitbox_legs_ps 0
+<000>rbot_autosniper_hitbox_neck 0
+<000>rbot_autosniper_hitbox_neck_ps 0
+<000>rbot_autosniper_hitbox_pelvis 0
+<000>rbot_autosniper_hitbox_pelvis_ps 0.6
+<000>rbot_autosniper_hitbox_stomach 0
+<000>rbot_autosniper_hitbox_stomach_ps 0
+<000>rbot_autosniper_hitchance 50
+<000>rbot_autosniper_ignorelimbsifwalking 0
+<000>rbot_autosniper_mindamage 0
+<000>rbot_autosniper_mode 0
+<000>rbot_delayshot 0
+<000>rbot_enable 0
+<000>rbot_fov 180
+<000>rbot_lmg_autostop 2
+<000>rbot_lmg_autostop_duck 0
+<000>rbot_lmg_autostop_key 0
+<000>rbot_lmg_autowall 0
+<000>rbot_lmg_bodyaftershots 0
+<000>rbot_lmg_bodyifhplower 0
+<000>rbot_lmg_bodyiflethal 0
+<000>rbot_lmg_headifwalking 0
+<000>rbot_lmg_hitbox 0
+<000>rbot_lmg_hitbox_adaptive 0
+<000>rbot_lmg_hitbox_arms 0
+<000>rbot_lmg_hitbox_arms_ps 0
+<000>rbot_lmg_hitbox_auto_ps 0
+<000>rbot_lmg_hitbox_auto_ps_max 0.7
+<000>rbot_lmg_hitbox_bodyaim 0
+<000>rbot_lmg_hitbox_chest 0
+<000>rbot_lmg_hitbox_chest_ps 0
+<000>rbot_lmg_hitbox_head 1
+<000>rbot_lmg_hitbox_head_ps 0.9
+<000>rbot_lmg_hitbox_legs 0
+<000>rbot_lmg_hitbox_legs_ps 0
+<000>rbot_lmg_hitbox_neck 0
+<000>rbot_lmg_hitbox_neck_ps 0
+<000>rbot_lmg_hitbox_pelvis 0
+<000>rbot_lmg_hitbox_pelvis_ps 0.6
+<000>rbot_lmg_hitbox_stomach 0
+<000>rbot_lmg_hitbox_stomach_ps 0
+<000>rbot_lmg_hitchance 50
+<000>rbot_lmg_ignorelimbsifwalking 0
+<000>rbot_lmg_mindamage 0
+<000>rbot_lmg_mode 0
+<000>rbot_pistol_autopistol 1
+<000>rbot_pistol_autostop 0
+<000>rbot_pistol_autostop_duck 0
+<000>rbot_pistol_autostop_key 0
+<000>rbot_pistol_autowall 0
+<000>rbot_pistol_bodyaftershots 0
+<000>rbot_pistol_bodyifhplower 0
+<000>rbot_pistol_bodyiflethal 0
+<000>rbot_pistol_headifwalking 0
+<000>rbot_pistol_hitbox 0
+<000>rbot_pistol_hitbox_adaptive 0
+<000>rbot_pistol_hitbox_arms 0
+<000>rbot_pistol_hitbox_arms_ps 0
+<000>rbot_pistol_hitbox_auto_ps 0
+<000>rbot_pistol_hitbox_auto_ps_max 0.7
+<000>rbot_pistol_hitbox_bodyaim 0
+<000>rbot_pistol_hitbox_chest 0
+<000>rbot_pistol_hitbox_chest_ps 0
+<000>rbot_pistol_hitbox_head 1
+<000>rbot_pistol_hitbox_head_ps 0.9
+<000>rbot_pistol_hitbox_legs 0
+<000>rbot_pistol_hitbox_legs_ps 0
+<000>rbot_pistol_hitbox_neck 0
+<000>rbot_pistol_hitbox_neck_ps 0
+<000>rbot_pistol_hitbox_pelvis 0
+<000>rbot_pistol_hitbox_pelvis_ps 0.6
+<000>rbot_pistol_hitbox_stomach 0
+<000>rbot_pistol_hitbox_stomach_ps 0
+<000>rbot_pistol_hitchance 50
+<000>rbot_pistol_ignorelimbsifwalking 0
+<000>rbot_pistol_mindamage 0
+<000>rbot_pistol_mode 0
+<000>rbot_positionadjustment 0
+<001>rbot_resolver 0
+<000>rbot_resolver_override 0
+<000>rbot_revolver_autocock 0
+<000>rbot_revolver_autostop 2
+<000>rbot_revolver_autostop_duck 0
+<000>rbot_revolver_autostop_key 0
+<000>rbot_revolver_autowall 0
+<000>rbot_revolver_bodyaftershots 0
+<000>rbot_revolver_bodyifhplower 0
+<000>rbot_revolver_bodyiflethal 0
+<000>rbot_revolver_headifwalking 0
+<000>rbot_revolver_hitbox 0
+<000>rbot_revolver_hitbox_adaptive 0
+<000>rbot_revolver_hitbox_arms 0
+<000>rbot_revolver_hitbox_arms_ps 0
+<000>rbot_revolver_hitbox_auto_ps 0
+<000>rbot_revolver_hitbox_auto_ps_max 0.7
+<000>rbot_revolver_hitbox_bodyaim 0
+<000>rbot_revolver_hitbox_chest 0
+<000>rbot_revolver_hitbox_chest_ps 0
+<000>rbot_revolver_hitbox_head 1
+<000>rbot_revolver_hitbox_head_ps 0.9
+<000>rbot_revolver_hitbox_legs 0
+<000>rbot_revolver_hitbox_legs_ps 0
+<000>rbot_revolver_hitbox_neck 0
+<000>rbot_revolver_hitbox_neck_ps 0
+<000>rbot_revolver_hitbox_pelvis 0
+<000>rbot_revolver_hitbox_pelvis_ps 0.6
+<000>rbot_revolver_hitbox_stomach 0
+<000>rbot_revolver_hitbox_stomach_ps 0
+<000>rbot_revolver_hitchance 50
+<000>rbot_revolver_ignorelimbsifwalking 0
+<000>rbot_revolver_mindamage 0
+<000>rbot_revolver_mode 0
+<000>rbot_revolver_secondaryfire 0
+<000>rbot_rifle_autostop 0
+<000>rbot_rifle_autostop_duck 0
+<000>rbot_rifle_autostop_key 0
+<000>rbot_rifle_autowall 0
+<000>rbot_rifle_bodyaftershots 0
+<000>rbot_rifle_bodyifhplower 0
+<000>rbot_rifle_bodyiflethal 0
+<000>rbot_rifle_headifwalking 0
+<000>rbot_rifle_hitbox 0
+<000>rbot_rifle_hitbox_adaptive 0
+<000>rbot_rifle_hitbox_arms 0
+<000>rbot_rifle_hitbox_arms_ps 0
+<000>rbot_rifle_hitbox_auto_ps 0
+<000>rbot_rifle_hitbox_auto_ps_max 0.7
+<000>rbot_rifle_hitbox_bodyaim 0
+<000>rbot_rifle_hitbox_chest 0
+<000>rbot_rifle_hitbox_chest_ps 0
+<000>rbot_rifle_hitbox_head 1
+<000>rbot_rifle_hitbox_head_ps 0.9
+<000>rbot_rifle_hitbox_legs 0
+<000>rbot_rifle_hitbox_legs_ps 0
+<000>rbot_rifle_hitbox_neck 0
+<000>rbot_rifle_hitbox_neck_ps 0
+<000>rbot_rifle_hitbox_pelvis 0
+<000>rbot_rifle_hitbox_pelvis_ps 0.6
+<000>rbot_rifle_hitbox_stomach 0
+<000>rbot_rifle_hitbox_stomach_ps 0
+<000>rbot_rifle_hitchance 50
+<000>rbot_rifle_ignorelimbsifwalking 0
+<000>rbot_rifle_mindamage 0
+<000>rbot_rifle_mode 0
+<001>rbot_scout_autoscope 2
+<000>rbot_scout_autostop 2
+<000>rbot_scout_autostop_duck 0
+<000>rbot_scout_autostop_key 0
+<000>rbot_scout_autowall 0
+<000>rbot_scout_bodyaftershots 0
+<000>rbot_scout_bodyifhplower 0
+<000>rbot_scout_bodyiflethal 0
+<000>rbot_scout_headifwalking 0
+<000>rbot_scout_hitbox 0
+<000>rbot_scout_hitbox_adaptive 0
+<000>rbot_scout_hitbox_arms 0
+<000>rbot_scout_hitbox_arms_ps 0
+<000>rbot_scout_hitbox_auto_ps 0
+<000>rbot_scout_hitbox_auto_ps_max 0.7
+<000>rbot_scout_hitbox_bodyaim 0
+<000>rbot_scout_hitbox_chest 0
+<000>rbot_scout_hitbox_chest_ps 0
+<000>rbot_scout_hitbox_head 1
+<000>rbot_scout_hitbox_head_ps 0.9
+<000>rbot_scout_hitbox_legs 0
+<000>rbot_scout_hitbox_legs_ps 0
+<000>rbot_scout_hitbox_neck 0
+<000>rbot_scout_hitbox_neck_ps 0
+<000>rbot_scout_hitbox_pelvis 0
+<000>rbot_scout_hitbox_pelvis_ps 0.6
+<000>rbot_scout_hitbox_stomach 0
+<000>rbot_scout_hitbox_stomach_ps 0
+<000>rbot_scout_hitchance 50
+<000>rbot_scout_ignorelimbsifwalking 0
+<000>rbot_scout_mindamage 0
+<000>rbot_scout_mode 0
+<000>rbot_shared_autoawp 0
+<000>rbot_shared_autocock 0
+<000>rbot_shared_autopistol 1
+<001>rbot_shared_autoscope 2
+<000>rbot_shared_autostop 2
+<000>rbot_shared_autostop_duck 0
+<000>rbot_shared_autostop_key 0
+<000>rbot_shared_autowall 0
+<000>rbot_shared_bodyaftershots 0
+<000>rbot_shared_bodyifhplower 0
+<000>rbot_shared_bodyiflethal 0
+<000>rbot_shared_headifwalking 0
+<000>rbot_shared_hitbox 0
+<000>rbot_shared_hitbox_adaptive 0
+<000>rbot_shared_hitbox_arms 0
+<000>rbot_shared_hitbox_arms_ps 0
+<000>rbot_shared_hitbox_auto_ps 0
+<000>rbot_shared_hitbox_auto_ps_max 0.7
+<000>rbot_shared_hitbox_bodyaim 0
+<000>rbot_shared_hitbox_chest 0
+<000>rbot_shared_hitbox_chest_ps 0
+<000>rbot_shared_hitbox_head 1
+<000>rbot_shared_hitbox_head_ps 0.9
+<000>rbot_shared_hitbox_legs 0
+<000>rbot_shared_hitbox_legs_ps 0
+<000>rbot_shared_hitbox_neck 0
+<000>rbot_shared_hitbox_neck_ps 0
+<000>rbot_shared_hitbox_pelvis 0
+<000>rbot_shared_hitbox_pelvis_ps 0.6
+<000>rbot_shared_hitbox_stomach 0
+<000>rbot_shared_hitbox_stomach_ps 0
+<000>rbot_shared_hitchance 50
+<000>rbot_shared_ignorelimbsifwalking 0
+<000>rbot_shared_mindamage 0
+<000>rbot_shared_mode 0
+<000>rbot_shared_secondaryfire 0
+<000>rbot_sharedweaponcfg 1
+<000>rbot_shotgun_autostop 0
+<000>rbot_shotgun_autostop_duck 0
+<000>rbot_shotgun_autostop_key 0
+<000>rbot_shotgun_autowall 0
+<000>rbot_shotgun_bodyaftershots 0
+<000>rbot_shotgun_bodyifhplower 0
+<000>rbot_shotgun_bodyiflethal 0
+<000>rbot_shotgun_headifwalking 0
+<000>rbot_shotgun_hitbox 0
+<000>rbot_shotgun_hitbox_adaptive 0
+<000>rbot_shotgun_hitbox_arms 0
+<000>rbot_shotgun_hitbox_arms_ps 0
+<000>rbot_shotgun_hitbox_auto_ps 0
+<000>rbot_shotgun_hitbox_auto_ps_max 0.7
+<000>rbot_shotgun_hitbox_bodyaim 0
+<000>rbot_shotgun_hitbox_chest 0
+<000>rbot_shotgun_hitbox_chest_ps 0
+<000>rbot_shotgun_hitbox_head 1
+<000>rbot_shotgun_hitbox_head_ps 0.9
+<000>rbot_shotgun_hitbox_legs 0
+<000>rbot_shotgun_hitbox_legs_ps 0
+<000>rbot_shotgun_hitbox_neck 0
+<000>rbot_shotgun_hitbox_neck_ps 0
+<000>rbot_shotgun_hitbox_pelvis 0
+<000>rbot_shotgun_hitbox_pelvis_ps 0.6
+<000>rbot_shotgun_hitbox_stomach 0
+<000>rbot_shotgun_hitbox_stomach_ps 0
+<000>rbot_shotgun_hitchance 50
+<000>rbot_shotgun_ignorelimbsifwalking 0
+<000>rbot_shotgun_mindamage 0
+<000>rbot_shotgun_mode 0
+<000>rbot_silentaim 0
+<000>rbot_smg_autostop 0
+<000>rbot_smg_autostop_duck 0
+<000>rbot_smg_autostop_key 0
+<000>rbot_smg_autowall 0
+<000>rbot_smg_bodyaftershots 0
+<000>rbot_smg_bodyifhplower 0
+<000>rbot_smg_bodyiflethal 0
+<000>rbot_smg_headifwalking 0
+<000>rbot_smg_hitbox 0
+<000>rbot_smg_hitbox_adaptive 0
+<000>rbot_smg_hitbox_arms 0
+<000>rbot_smg_hitbox_arms_ps 0
+<000>rbot_smg_hitbox_auto_ps 0
+<000>rbot_smg_hitbox_auto_ps_max 0.7
+<000>rbot_smg_hitbox_bodyaim 0
+<000>rbot_smg_hitbox_chest 0
+<000>rbot_smg_hitbox_chest_ps 0
+<000>rbot_smg_hitbox_head 1
+<000>rbot_smg_hitbox_head_ps 0.9
+<000>rbot_smg_hitbox_legs 0
+<000>rbot_smg_hitbox_legs_ps 0
+<000>rbot_smg_hitbox_neck 0
+<000>rbot_smg_hitbox_neck_ps 0
+<000>rbot_smg_hitbox_pelvis 0
+<000>rbot_smg_hitbox_pelvis_ps 0.6
+<000>rbot_smg_hitbox_stomach 0
+<000>rbot_smg_hitbox_stomach_ps 0
+<000>rbot_smg_hitchance 50
+<000>rbot_smg_ignorelimbsifwalking 0
+<000>rbot_smg_mindamage 0
+<000>rbot_smg_mode 0
+<000>rbot_sniper_autoawp 0
+<001>rbot_sniper_autoscope 2
+<000>rbot_sniper_autostop 0
+<000>rbot_sniper_autostop_duck 0
+<000>rbot_sniper_autostop_key 0
+<000>rbot_sniper_autowall 0
+<000>rbot_sniper_bodyaftershots 0
+<000>rbot_sniper_bodyifhplower 0
+<000>rbot_sniper_bodyiflethal 0
+<000>rbot_sniper_headifwalking 0
+<000>rbot_sniper_hitbox 0
+<000>rbot_sniper_hitbox_adaptive 0
+<000>rbot_sniper_hitbox_arms 0
+<000>rbot_sniper_hitbox_arms_ps 0
+<000>rbot_sniper_hitbox_auto_ps 0
+<000>rbot_sniper_hitbox_auto_ps_max 0.7
+<000>rbot_sniper_hitbox_bodyaim 0
+<000>rbot_sniper_hitbox_chest 0
+<000>rbot_sniper_hitbox_chest_ps 0
+<000>rbot_sniper_hitbox_head 1
+<000>rbot_sniper_hitbox_head_ps 0.9
+<000>rbot_sniper_hitbox_legs 0
+<000>rbot_sniper_hitbox_legs_ps 0
+<000>rbot_sniper_hitbox_neck 0
+<000>rbot_sniper_hitbox_neck_ps 0
+<000>rbot_sniper_hitbox_pelvis 0
+<000>rbot_sniper_hitbox_pelvis_ps 0.6
+<000>rbot_sniper_hitbox_stomach 0
+<000>rbot_sniper_hitbox_stomach_ps 0
+<000>rbot_sniper_hitchance 50
+<000>rbot_sniper_ignorelimbsifwalking 0
+<000>rbot_sniper_mindamage 0
+<000>rbot_sniper_mode 0
+<001>rbot_speedlimit 2
+<000>rbot_team 0
+<000>skin_active 1
+<000>skin_ak47_enable 0
+<000>skin_ak47_name 
+<000>skin_ak47_paintkit 0
+<000>skin_ak47_seed 0
+<000>skin_ak47_stattrak 0
+<000>skin_ak47_wear 0
+<000>skin_aug_enable 0
+<000>skin_aug_name 
+<000>skin_aug_paintkit 0
+<000>skin_aug_seed 0
+<000>skin_aug_stattrak 0
+<000>skin_aug_wear 0
+<000>skin_awp_enable 0
+<000>skin_awp_name 
+<000>skin_awp_paintkit 0
+<000>skin_awp_seed 0
+<000>skin_awp_stattrak 0
+<000>skin_awp_wear 0
+<000>skin_bayonet_enable 0
+<000>skin_bayonet_name 
+<000>skin_bayonet_paintkit 0
+<000>skin_bayonet_seed 0
+<000>skin_bayonet_stattrak 0
+<000>skin_bayonet_wear 0
+<000>skin_bizon_enable 0
+<000>skin_bizon_name 
+<000>skin_bizon_paintkit 0
+<000>skin_bizon_seed 0
+<000>skin_bizon_stattrak 0
+<000>skin_bizon_wear 0
+<000>skin_cz75a_enable 0
+<000>skin_cz75a_name 
+<000>skin_cz75a_paintkit 0
+<000>skin_cz75a_seed 0
+<000>skin_cz75a_stattrak 0
+<000>skin_cz75a_wear 0
+<000>skin_deagle_enable 0
+<000>skin_deagle_name 
+<000>skin_deagle_paintkit 0
+<000>skin_deagle_seed 0
+<000>skin_deagle_stattrak 0
+<000>skin_deagle_wear 0
+<000>skin_elite_enable 0
+<000>skin_elite_name 
+<000>skin_elite_paintkit 0
+<000>skin_elite_seed 0
+<000>skin_elite_stattrak 0
+<000>skin_elite_wear 0
+<000>skin_famas_enable 0
+<000>skin_famas_name 
+<000>skin_famas_paintkit 0
+<000>skin_famas_seed 0
+<000>skin_famas_stattrak 0
+<000>skin_famas_wear 0
+<000>skin_fiveseven_enable 0
+<000>skin_fiveseven_name 
+<000>skin_fiveseven_paintkit 0
+<000>skin_fiveseven_seed 0
+<000>skin_fiveseven_stattrak 0
+<000>skin_fiveseven_wear 0
+<000>skin_g3sg1_enable 0
+<000>skin_g3sg1_name 
+<000>skin_g3sg1_paintkit 0
+<000>skin_g3sg1_seed 0
+<000>skin_g3sg1_stattrak 0
+<000>skin_g3sg1_wear 0
+<000>skin_galilar_enable 0
+<000>skin_galilar_name 
+<000>skin_galilar_paintkit 0
+<000>skin_galilar_seed 0
+<000>skin_galilar_stattrak 0
+<000>skin_galilar_wear 0
+<000>skin_glock_enable 0
+<000>skin_glock_name 
+<000>skin_glock_paintkit 0
+<000>skin_glock_seed 0
+<000>skin_glock_stattrak 0
+<000>skin_glock_wear 0
+<000>skin_gloves 0
+<000>skin_gloves_enable 0
+<000>skin_hkp2000_enable 0
+<000>skin_hkp2000_name 
+<000>skin_hkp2000_paintkit 0
+<000>skin_hkp2000_seed 0
+<000>skin_hkp2000_stattrak 0
+<000>skin_hkp2000_wear 0
+<000>skin_knife 0
+<000>skin_knife_butterfly_enable 0
+<000>skin_knife_butterfly_name 
+<000>skin_knife_butterfly_paintkit 0
+<000>skin_knife_butterfly_seed 0
+<000>skin_knife_butterfly_stattrak 0
+<000>skin_knife_butterfly_wear 0
+<000>skin_knife_enable 0
+<000>skin_knife_falchion_enable 0
+<000>skin_knife_falchion_name 
+<000>skin_knife_falchion_paintkit 0
+<000>skin_knife_falchion_seed 0
+<000>skin_knife_falchion_stattrak 0
+<000>skin_knife_falchion_wear 0
+<000>skin_knife_flip_enable 0
+<000>skin_knife_flip_name 
+<000>skin_knife_flip_paintkit 0
+<000>skin_knife_flip_seed 0
+<000>skin_knife_flip_stattrak 0
+<000>skin_knife_flip_wear 0
+<000>skin_knife_gut_enable 0
+<000>skin_knife_gut_name 
+<000>skin_knife_gut_paintkit 0
+<000>skin_knife_gut_seed 0
+<000>skin_knife_gut_stattrak 0
+<000>skin_knife_gut_wear 0
+<000>skin_knife_gypsy_jackknife_enable 0
+<000>skin_knife_gypsy_jackknife_name 
+<000>skin_knife_gypsy_jackknife_paintkit 0
+<000>skin_knife_gypsy_jackknife_seed 0
+<000>skin_knife_gypsy_jackknife_stattrak 0
+<000>skin_knife_gypsy_jackknife_wear 0
+<000>skin_knife_karambit_enable 0
+<000>skin_knife_karambit_name 
+<000>skin_knife_karambit_paintkit 0
+<000>skin_knife_karambit_seed 0
+<000>skin_knife_karambit_stattrak 0
+<000>skin_knife_karambit_wear 0
+<000>skin_knife_m9_bayonet_enable 0
+<000>skin_knife_m9_bayonet_name 
+<000>skin_knife_m9_bayonet_paintkit 0
+<000>skin_knife_m9_bayonet_seed 0
+<000>skin_knife_m9_bayonet_stattrak 0
+<000>skin_knife_m9_bayonet_wear 0
+<000>skin_knife_push_enable 0
+<000>skin_knife_push_name 
+<000>skin_knife_push_paintkit 0
+<000>skin_knife_push_seed 0
+<000>skin_knife_push_stattrak 0
+<000>skin_knife_push_wear 0
+<000>skin_knife_stiletto_enable 0
+<000>skin_knife_stiletto_name 
+<000>skin_knife_stiletto_paintkit 0
+<000>skin_knife_stiletto_seed 0
+<000>skin_knife_stiletto_stattrak 0
+<000>skin_knife_stiletto_wear 0
+<000>skin_knife_survival_bowie_enable 0
+<000>skin_knife_survival_bowie_name 
+<000>skin_knife_survival_bowie_paintkit 0
+<000>skin_knife_survival_bowie_seed 0
+<000>skin_knife_survival_bowie_stattrak 0
+<000>skin_knife_survival_bowie_wear 0
+<000>skin_knife_tactical_enable 0
+<000>skin_knife_tactical_name 
+<000>skin_knife_tactical_paintkit 0
+<000>skin_knife_tactical_seed 0
+<000>skin_knife_tactical_stattrak 0
+<000>skin_knife_tactical_wear 0
+<000>skin_knife_ursus_enable 0
+<000>skin_knife_ursus_name 
+<000>skin_knife_ursus_paintkit 0
+<000>skin_knife_ursus_seed 0
+<000>skin_knife_ursus_stattrak 0
+<000>skin_knife_ursus_wear 0
+<000>skin_knife_widowmaker_enable 0
+<000>skin_knife_widowmaker_name 
+<000>skin_knife_widowmaker_paintkit 0
+<000>skin_knife_widowmaker_seed 0
+<000>skin_knife_widowmaker_stattrak 0
+<000>skin_knife_widowmaker_wear 0
+<000>skin_leather_handwraps_enable 0
+<000>skin_leather_handwraps_name 
+<000>skin_leather_handwraps_paintkit 0
+<000>skin_leather_handwraps_seed 0
+<000>skin_leather_handwraps_stattrak 0
+<000>skin_leather_handwraps_wear 0
+<000>skin_m249_enable 0
+<000>skin_m249_name 
+<000>skin_m249_paintkit 0
+<000>skin_m249_seed 0
+<000>skin_m249_stattrak 0
+<000>skin_m249_wear 0
+<000>skin_m4a1_enable 0
+<000>skin_m4a1_name 
+<000>skin_m4a1_paintkit 0
+<000>skin_m4a1_seed 0
+<000>skin_m4a1_silencer_enable 0
+<000>skin_m4a1_silencer_name 
+<000>skin_m4a1_silencer_paintkit 0
+<000>skin_m4a1_silencer_seed 0
+<000>skin_m4a1_silencer_stattrak 0
+<000>skin_m4a1_silencer_wear 0
+<000>skin_m4a1_stattrak 0
+<000>skin_m4a1_wear 0
+<000>skin_mac10_enable 0
+<000>skin_mac10_name 
+<000>skin_mac10_paintkit 0
+<000>skin_mac10_seed 0
+<000>skin_mac10_stattrak 0
+<000>skin_mac10_wear 0
+<000>skin_mag7_enable 0
+<000>skin_mag7_name 
+<000>skin_mag7_paintkit 0
+<000>skin_mag7_seed 0
+<000>skin_mag7_stattrak 0
+<000>skin_mag7_wear 0
+<000>skin_motorcycle_gloves_enable 0
+<000>skin_motorcycle_gloves_name 
+<000>skin_motorcycle_gloves_paintkit 0
+<000>skin_motorcycle_gloves_seed 0
+<000>skin_motorcycle_gloves_stattrak 0
+<000>skin_motorcycle_gloves_wear 0
+<000>skin_mp7_enable 0
+<000>skin_mp7_name 
+<000>skin_mp7_paintkit 0
+<000>skin_mp7_seed 0
+<000>skin_mp7_stattrak 0
+<000>skin_mp7_wear 0
+<000>skin_mp9_enable 0
+<000>skin_mp9_name 
+<000>skin_mp9_paintkit 0
+<000>skin_mp9_seed 0
+<000>skin_mp9_stattrak 0
+<000>skin_mp9_wear 0
+<000>skin_negev_enable 0
+<000>skin_negev_name 
+<000>skin_negev_paintkit 0
+<000>skin_negev_seed 0
+<000>skin_negev_stattrak 0
+<000>skin_negev_wear 0
+<000>skin_nova_enable 0
+<000>skin_nova_name 
+<000>skin_nova_paintkit 0
+<000>skin_nova_seed 0
+<000>skin_nova_stattrak 0
+<000>skin_nova_wear 0
+<000>skin_p250_enable 0
+<000>skin_p250_name 
+<000>skin_p250_paintkit 0
+<000>skin_p250_seed 0
+<000>skin_p250_stattrak 0
+<000>skin_p250_wear 0
+<000>skin_p90_enable 0
+<000>skin_p90_name 
+<000>skin_p90_paintkit 0
+<000>skin_p90_seed 0
+<000>skin_p90_stattrak 0
+<000>skin_p90_wear 0
+<000>skin_revolver_enable 0
+<000>skin_revolver_name 
+<000>skin_revolver_paintkit 0
+<000>skin_revolver_seed 0
+<000>skin_revolver_stattrak 0
+<000>skin_revolver_wear 0
+<000>skin_sawedoff_enable 0
+<000>skin_sawedoff_name 
+<000>skin_sawedoff_paintkit 0
+<000>skin_sawedoff_seed 0
+<000>skin_sawedoff_stattrak 0
+<000>skin_sawedoff_wear 0
+<000>skin_scar20_enable 0
+<000>skin_scar20_name 
+<000>skin_scar20_paintkit 0
+<000>skin_scar20_seed 0
+<000>skin_scar20_stattrak 0
+<000>skin_scar20_wear 0
+<000>skin_sg556_enable 0
+<000>skin_sg556_name 
+<000>skin_sg556_paintkit 0
+<000>skin_sg556_seed 0
+<000>skin_sg556_stattrak 0
+<000>skin_sg556_wear 0
+<000>skin_slick_gloves_enable 0
+<000>skin_slick_gloves_name 
+<000>skin_slick_gloves_paintkit 0
+<000>skin_slick_gloves_seed 0
+<000>skin_slick_gloves_stattrak 0
+<000>skin_slick_gloves_wear 0
+<000>skin_specialist_gloves_enable 0
+<000>skin_specialist_gloves_name 
+<000>skin_specialist_gloves_paintkit 0
+<000>skin_specialist_gloves_seed 0
+<000>skin_specialist_gloves_stattrak 0
+<000>skin_specialist_gloves_wear 0
+<000>skin_sporty_gloves_enable 0
+<000>skin_sporty_gloves_name 
+<000>skin_sporty_gloves_paintkit 0
+<000>skin_sporty_gloves_seed 0
+<000>skin_sporty_gloves_stattrak 0
+<000>skin_sporty_gloves_wear 0
+<000>skin_ssg08_enable 0
+<000>skin_ssg08_name 
+<000>skin_ssg08_paintkit 0
+<000>skin_ssg08_seed 0
+<000>skin_ssg08_stattrak 0
+<000>skin_ssg08_wear 0
+<000>skin_studded_bloodhound_gloves_enable 0
+<000>skin_studded_bloodhound_gloves_name 
+<000>skin_studded_bloodhound_gloves_paintkit 0
+<000>skin_studded_bloodhound_gloves_seed 0
+<000>skin_studded_bloodhound_gloves_stattrak 0
+<000>skin_studded_bloodhound_gloves_wear 0
+<000>skin_studded_hydra_gloves_enable 0
+<000>skin_studded_hydra_gloves_name 
+<000>skin_studded_hydra_gloves_paintkit 0
+<000>skin_studded_hydra_gloves_seed 0
+<000>skin_studded_hydra_gloves_stattrak 0
+<000>skin_studded_hydra_gloves_wear 0
+<000>skin_tec9_enable 0
+<000>skin_tec9_name 
+<000>skin_tec9_paintkit 0
+<000>skin_tec9_seed 0
+<000>skin_tec9_stattrak 0
+<000>skin_tec9_wear 0
+<000>skin_ump45_enable 0
+<000>skin_ump45_name 
+<000>skin_ump45_paintkit 0
+<000>skin_ump45_seed 0
+<000>skin_ump45_stattrak 0
+<000>skin_ump45_wear 0
+<000>skin_usp_silencer_enable 0
+<000>skin_usp_silencer_name 
+<000>skin_usp_silencer_paintkit 0
+<000>skin_usp_silencer_seed 0
+<000>skin_usp_silencer_stattrak 0
+<000>skin_usp_silencer_wear 0
+<000>skin_xm1014_enable 0
+<000>skin_xm1014_name 
+<000>skin_xm1014_paintkit 0
+<000>skin_xm1014_seed 0
+<000>skin_xm1014_stattrak 0
+<000>skin_xm1014_wear 0
+<000>vis_antiobs 0
+<000>vis_antiscreenshot 1
+<000>vis_asus 1
+<000>vis_asustype 0
+<000>vis_bullet_tracer 0
+<000>vis_chams_hands 0
+<000>vis_chams_weapon 0
+<000>vis_fakeghost 0
+<000>vis_farmodels 0
+<000>vis_glowalpha 0.8
+<000>vis_historyticks 2
+<000>vis_nightmode 1
+<000>vis_noflash 0
+<000>vis_norecoil 0
+<000>vis_norender_enemies 0
+<000>vis_norender_ragdolls 1
+<000>vis_norender_teammates 0
+<000>vis_norender_weapons 0
+<000>vis_nosky 0
+<000>vis_nosmoke 0
+<000>vis_scoperemover 0
+<000>vis_skybox 0
+<000>vis_thirdperson_dist 0
+<000>vis_thirdperson_mode 0
+<001>vis_togglekey 0
+<000>vis_view_fov 0
+<000>vis_view_model_fov 0
+<000>wnd_menu 676 156
+<000>wnd_mirrorview 500 50
+<000>wnd_playerlist 8 320
+<000>wnd_radar 8 8
+<000>wnd_showspec 8 280
+<000>wnd_skinchanger 8 360
+<000>wnd_spycamera 16 16
+<CMD>bindtoggle "f1" "esp_xqz" "1" "0" 0

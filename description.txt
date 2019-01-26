@@ -1,0 +1,15 @@
+auto config
+make sure to edit the keybinds before u import the config, mouse5 is thirdperson, alt is pingspike, mouse4 is a bind i made to improve fakewalk, change it to the same key that u have fakewalk binded to
+
+*********************************************************************
+awp config
+same keybinds as above, but a new one (shift) is to disable/enable autowall , make sure to change it
+
+*********************************************************************
+scout config
+same keybinds as above, but a new one (shift) is to disable/enable autostrafe while holding it , make sure to change it if you want 
+and T is a baim key. hold it if u want to baim
+
+*********************************************************************
+revolver config
+same as auto binds
